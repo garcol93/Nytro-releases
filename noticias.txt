@@ -1,0 +1,9 @@
+# Periódicos de Nytro. Una línea por periódico: nombre | enlace RSS (https).
+# Los móviles bajan este archivo de garcol93/Nytro-releases una vez al día.
+# Si un enlace deja de ir, cámbialo en ese repositorio: no hace falta sacar versión.
+# El nombre es lo que guarda cada móvil: si lo cambias, quien lo tenía elegido pasa al primero.
+RTVE | https://api2.rtve.es/rss/temas_noticias.xml
+El País | https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada
+Europa Press | https://www.europapress.es/rss/rss.aspx
+ABC | https://www.abc.es/rss/2.0/portada/
+elDiario.es | https://www.eldiario.es/rss/
